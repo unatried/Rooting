@@ -1,5 +1,5 @@
 enable: true
 id: NeoZygisk
 source: https://github.com/JingMatrix/NeoZygisk
-#update_to: https://raw.githubusercontent.com/JingMatrix/NeoZygisk/master/module/zygisk.json
-update_to: https://github.com/JingMatrix/NeoZygisk/actions/runs/21084393168/artifacts/5161063359
+update_to: https://raw.githubusercontent.com/JingMatrix/NeoZygisk/master/module/zygisk.json
+#update_to: https://github.com/JingMatrix/NeoZygisk/actions/runs/21084393168/artifacts/5161063359
