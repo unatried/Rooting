@@ -1,4 +1,4 @@
 enable: true
 id: DynamicSystemTweaks-arm64-Magisk-Module
 source: https://github.com/g7755726/DynamicSystemTweaks-arm64-Magisk-Module
-update_to: https://github.com/g7755726/DynamicSystemTweaks-arm64-Magisk-Module/main/update.json
+update_to: https://raw.githubusercontent.com/g7755726/DynamicSystemTweaks-arm64-Magisk-Module/main/update.json
