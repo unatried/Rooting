@@ -1,0 +1,14 @@
+{
+  "id": "DynamicSystemTweaks-arm64-Magisk-Module",
+  "timestamp": 1745008292.0,
+  "versions": [
+    {
+      "timestamp": 1745008292.0,
+      "version": "v1.4",
+      "versionCode": 5,
+      "zipUrl": "https://rooting.unatried.com/modules/DynamicSystemTweaks-arm64-Magisk-Module/v1.4_5.zip",
+      "changelog": "https://rooting.unatried.com/modules/DynamicSystemTweaks-arm64-Magisk-Module/v1.4_5.md",
+      "size": 8424
+    }
+  ]
+}
