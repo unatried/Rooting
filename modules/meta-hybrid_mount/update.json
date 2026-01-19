@@ -9,6 +9,14 @@
       "zipUrl": "https://rooting.unatried.com/MMRL/modules/meta-hybrid_mount/v2.1.2_135.zip",
       "changelog": "https://rooting.unatried.com/MMRL/modules/meta-hybrid_mount/v2.1.2_135.md",
       "size": 3845495
+    },
+    {
+      "timestamp": 1768861316.0,
+      "version": "v2.2.0",
+      "versionCode": 136,
+      "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.2.0_136.zip",
+      "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.2.0_136.md",
+      "size": 3816232
     }
   ]
 }
