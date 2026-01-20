@@ -9,6 +9,14 @@
       "zipUrl": "https://rooting.unatried.com/MMRL/modules/Simple-Flag-Secure/v5_50.zip",
       "changelog": "",
       "size": 1819369
+    },
+    {
+      "timestamp": 1761236892.0,
+      "version": "v2.0-release",
+      "versionCode": 20000,
+      "zipUrl": "https://rooting.unatried.com/modules/Simple-Flag-Secure/v2.0-release_20000.zip",
+      "changelog": "",
+      "size": 1819369
     }
   ]
 }
