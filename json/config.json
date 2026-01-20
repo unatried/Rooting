@@ -2,11 +2,4 @@
     "id": "skrull",
     "name": "Skrull",
     "base_url": "https://rooting.unatried.com/",
-    "website": "https://rooting.unatried.com/MMRL",
-    "support": "https://github.com/unatried/Rooting/issues",
-    "donate": null,
-    "submission": "https://github.com/unatried/Rooting/pull",
-    "description": "A list of modules and application UnaTried might be using.",
-    "max_num": 6,
-    "enable_log": false
 }
