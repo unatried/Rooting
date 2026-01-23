@@ -9,6 +9,14 @@
       "zipUrl": "https://rooting.unatried.com/MMRL/modules/playcurlNEXT/v1.18_118.zip",
       "changelog": "https://rooting.unatried.com/MMRL/modules/playcurlNEXT/v1.18_118.md",
       "size": 17900
+    },
+    {
+      "timestamp": 1769173060.0,
+      "version": "v1.19",
+      "versionCode": 119,
+      "zipUrl": "https://rooting.unatried.com/modules/playcurlNEXT/v1.19_119.zip",
+      "changelog": "https://rooting.unatried.com/modules/playcurlNEXT/v1.19_119.md",
+      "size": 18441
     }
   ]
 }
