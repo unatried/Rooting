@@ -1,6 +1,6 @@
 enable: true
 id: playcurlNEXT
-last_update: 1749983406.0
+last_update: 1769173060.0
 source: https://github.com/daboynb/playcurlNEXT
 update_to: https://raw.githubusercontent.com/daboynb/playcurlNEXT/main/update.json
-versions: 1
+versions: 2
