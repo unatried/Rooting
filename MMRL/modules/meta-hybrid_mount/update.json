@@ -17,6 +17,14 @@
       "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.2.0_136.zip",
       "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.2.0_136.md",
       "size": 3816232
+    },
+    {
+      "timestamp": 1769355051.0,
+      "version": "v2.3.0",
+      "versionCode": 137,
+      "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.3.0_137.zip",
+      "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.3.0_137.md",
+      "size": 3912198
     }
   ]
 }
