@@ -9,6 +9,14 @@
       "zipUrl": "https://rooting.unatried.com/MMRL/modules/susfs4ksu-module/v1.5.2-R24_105002024.zip",
       "changelog": "https://rooting.unatried.com/MMRL/modules/susfs4ksu-module/v1.5.2-R24_105002024.md",
       "size": 1187502
+    },
+    {
+      "timestamp": 1769682558.0,
+      "version": "v1.5.2-R25",
+      "versionCode": 105002025,
+      "zipUrl": "https://rooting.unatried.com/modules/susfs4ksu-module/v1.5.2-R25_105002025.zip",
+      "changelog": "https://rooting.unatried.com/modules/susfs4ksu-module/v1.5.2-R25_105002025.md",
+      "size": 983240
     }
   ]
 }
