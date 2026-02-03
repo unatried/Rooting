@@ -39,9 +39,7 @@ jobs:
       - name: Checkout MMRL branch
         uses: actions/checkout@v4
         with:
-          ref: MMRL
-          fetch-depth: 0
-          persist-credentials: true
+          ref: 'refs/heads/MMRL'
 
       - name: Configure Git
         run: |
