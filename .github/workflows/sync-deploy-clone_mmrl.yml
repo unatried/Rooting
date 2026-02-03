@@ -61,7 +61,7 @@ jobs:
 
       - name: Sync
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_API_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           mmrl-util sync --diff versions_diff.md
 
