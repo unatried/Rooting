@@ -61,7 +61,7 @@ jobs:
 
       - name: Sync
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_API_TOKEN }}
         run: |
           mmrl-util sync --diff versions_diff.md
 
@@ -80,26 +80,11 @@ jobs:
           echo "$(cat latest_versions.md)" >> $GITHUB_STEP_SUMMARY
           rm latest_versions.md
 
-      - name: Show git state before push
-        run: |
-          git status
-          git branch -vv
-          git log --oneline -5
-
       - name: Index and Push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          find . -type f -size +99M -print0 |
-          while IFS= read -r -d '' file; do
-            git lfs track "$file"
-          done
-          find . -type f -size +99M -print0 |
-          xargs -0 git rm --cached || true
-          git add .
-          git commit -m "Sync MMRL modules" || echo "No changes to commit"
-          git pull --rebase origin MMRL
-          git push origin MMRL
+          mmrl-util index --push --branch MMRL
 
       - name: Upload logs
         uses: actions/upload-artifact@v4
