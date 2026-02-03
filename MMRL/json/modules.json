@@ -1,0 +1,971 @@
+{
+  "id": "roounacom",
+  "name": "Skrull",
+  "website": null,
+  "support": null,
+  "donate": null,
+  "submission": null,
+  "cover": null,
+  "description": null,
+  "metadata": {
+    "version": 1,
+    "timestamp": 1770147157.865636
+  },
+  "modules": [
+    {
+      "id": "BetterKnownInstalled",
+      "name": "BetterKnownInstalled (BKI)",
+      "version": "v1.4.0",
+      "versionCode": 1400,
+      "author": "@T3SL4",
+      "description": "Patching (installer, installerUid, installInitiator, installOriginator) in packages.xml and cleaning packages-warnings.xml for defeating DroidGuard: UNKNOWN_INSTALLED",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1757052357.0,
+      "size": 1794756,
+      "permissions": [
+        "magisk.permission.POST_FS_DATA"
+      ],
+      "features": {
+        "post_fs_data": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "source": "https://github.com/Pixel-Props/BetterKnownInstalled",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/BetterKnownInstalled/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1757052357.0,
+          "version": "v1.4.0",
+          "versionCode": 1400,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/BetterKnownInstalled/v1.4.0_1400.zip",
+          "changelog": "",
+          "size": 1794756
+        }
+      ]
+    },
+    {
+      "id": "DynamicSystemTweaks-arm64-Magisk-Module",
+      "name": "DynamicSystemTweaks-arm64",
+      "version": "v1.4",
+      "versionCode": 5,
+      "author": "Cyberdev",
+      "description": "Improves system performance without battery loss or overheating for arm64-v8a with 8 cpu core devices only, does not work on devices using APatch (Android 10+)",
+      "support": "https://github.com/PS2ClassicsVault/DynamicSystemTweaks-arm64-Magisk-Module/issues",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1745008292.0,
+      "size": 8424,
+      "permissions": [
+        "magisk.permission.RESETPROP"
+      ],
+      "features": {
+        "resetprop": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/g7755726/DynamicSystemTweaks-arm64-Magisk-Module",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/DynamicSystemTweaks-arm64-Magisk-Module/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1745008292.0,
+          "version": "v1.4",
+          "versionCode": 5,
+          "zipUrl": "https://rooting.unatried.com/modules/DynamicSystemTweaks-arm64-Magisk-Module/v1.4_5.zip",
+          "changelog": "https://rooting.unatried.com/modules/DynamicSystemTweaks-arm64-Magisk-Module/v1.4_5.md",
+          "size": 8424
+        }
+      ]
+    },
+    {
+      "id": "Haruka",
+      "name": "Haruka (Signature Spoofing)",
+      "version": "v0.3",
+      "versionCode": 1,
+      "author": "Shomy",
+      "description": "Add signature spoofing support on any rom systemlessly",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1754399292.0,
+      "size": 1682879,
+      "permissions": [
+        "mmrl.permission.APKS",
+        "mmrl.permission.DEXS"
+      ],
+      "features": {
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_ZIP",
+        "added": null,
+        "source": "https://github.com/shomykohai/haruka",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/Haruka/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1754399292.0,
+          "version": "v0.3",
+          "versionCode": 1,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/Haruka/v0.3_1.zip",
+          "changelog": "",
+          "size": 1682879
+        }
+      ]
+    },
+    {
+      "id": "InfamickScript",
+      "name": "Infamick Script",
+      "version": "v3.3",
+      "versionCode": 202506121,
+      "author": "@Infamousmick",
+      "description": "A powerful system utility script for rooted Android devices",
+      "support": "https://github.com/Infamousmick/",
+      "homepage": "https://github.com/Infamousmick/Infamick-script",
+      "readme": "https://raw.githubusercontent.com/Infamousmick/Infamick-script/main/README.md",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1749748742.0,
+      "size": 23487,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/Infamousmick/Infamick-script",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/InfamickScript/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1749748742.0,
+          "version": "v1.0.21",
+          "versionCode": 121,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/InfamickScript/v1.0.21_121.zip",
+          "changelog": "https://rooting.unatried.com/MMRL/modules/InfamickScript/v1.0.21_121.md",
+          "size": 23487
+        },
+        {
+          "timestamp": 1749748742.0,
+          "version": "v3.3",
+          "versionCode": 202506121,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/InfamickScript/v3.3_202506121.zip",
+          "changelog": "https://rooting.unatried.com/MMRL/modules/InfamickScript/v3.3_202506121.md",
+          "size": 23487
+        }
+      ]
+    },
+    {
+      "id": "LSPosed",
+      "name": "Zygisk - LSPosed",
+      "version": "v1.11.0 (7209)",
+      "versionCode": 7209,
+      "author": "JingMatrix & LSPosed Developers",
+      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 16. Requires Magisk 26.0+ and Zygisk enabled.",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1769900057.0,
+      "size": 6785684,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.RESETPROP",
+        "magisk.permission.SEPOLICY",
+        "magisk.permission.ACTION",
+        "mmrl.permission.APKS",
+        "mmrl.permission.DEXS"
+      ],
+      "features": {
+        "service": true,
+        "resetprop": true,
+        "sepolicy": true,
+        "action": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/JingMatrix/LSPosed",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/LSPosed/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1752362984.0,
+          "version": "v1.10.2 (7182)",
+          "versionCode": 7182,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/LSPosed/v1.10.2_7182.zip",
+          "changelog": "https://rooting.unatried.com/MMRL/modules/LSPosed/v1.10.2_7182.md",
+          "size": 6507377
+        },
+        {
+          "timestamp": 1769900057.0,
+          "version": "v1.11.0 (7209)",
+          "versionCode": 7209,
+          "zipUrl": "https://rooting.unatried.com/modules/LSPosed/v1.11.0_7209.zip",
+          "changelog": "https://rooting.unatried.com/modules/LSPosed/v1.11.0_7209.md",
+          "size": 6785684
+        }
+      ]
+    },
+    {
+      "id": "MAGNETAR",
+      "name": "MAGNETAR",
+      "version": "19.6.0 (YANKEE)",
+      "versionCode": 196000,
+      "author": "Kyliekyler",
+      "description": "Device Performance Optimizer \u2014 Aims To Provide An Optimal Experience At Every Usage Scenario",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1756522107.0,
+      "size": 852186,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/Kyliekyler/MAGNETAR",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/MAGNETAR/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1756522107.0,
+          "version": "19.6.0 (YANKEE)",
+          "versionCode": 196000,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/MAGNETAR/19.6.0_YANKEE_196000.zip",
+          "changelog": "https://rooting.unatried.com/MMRL/modules/MAGNETAR/19.6.0_YANKEE_196000.md",
+          "size": 852186
+        }
+      ]
+    },
+    {
+      "id": "NeoZygisk",
+      "name": "NeoZygisk",
+      "version": "v2.2 (266-559fc1d-release)",
+      "versionCode": 266,
+      "author": "JingMatrix",
+      "description": "Zygote injection with ptrace.",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1757862999.0,
+      "size": 3285848,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY",
+        "magisk.permission.ACTION"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true,
+        "action": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/JingMatrix/NeoZygisk",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/NeoZygisk/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1757862999.0,
+          "version": "v2.2 (266-559fc1d-release)",
+          "versionCode": 266,
+          "zipUrl": "https://rooting.unatried.com/modules/NeoZygisk/v2.2_266-559fc1d-release.zip",
+          "changelog": "https://rooting.unatried.com/modules/NeoZygisk/v2.2_266-559fc1d-release.md",
+          "size": 3285848
+        }
+      ]
+    },
+    {
+      "id": "PerfGame",
+      "name": "PerfGame",
+      "version": "v2.0-release",
+      "versionCode": 20000,
+      "author": "Adinata | @Adivenxnataly",
+      "description": "Enable custom resolution & frame-rate mechanism for your game.",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1747059112.0,
+      "size": 1127322,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.APKS"
+      ],
+      "features": {
+        "service": true,
+        "webroot": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_ZIP",
+        "added": null,
+        "source": "https://github.com/adivenxnataly/PerfGame",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/PerfGame/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1747059112.0,
+          "version": "v2.0-release",
+          "versionCode": 20000,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/PerfGame/v2.0-release_20000.zip",
+          "changelog": "",
+          "size": 1127322
+        }
+      ]
+    },
+    {
+      "id": "PlayIntegrityFork",
+      "name": "Play Integrity Fork",
+      "version": "v16",
+      "versionCode": 164000,
+      "author": "osm0sis & chiteroman @ xda-developers",
+      "description": "Fix <A13 Play Integrity DEVICE verdict",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1767920634.0,
+      "size": 283340,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ACTION",
+        "mmrl.permission.DEXS"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "action": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/osm0sis/PlayIntegrityFork",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/PlayIntegrityFork/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1767920634.0,
+          "version": "v16",
+          "versionCode": 164000,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/PlayIntegrityFork/v16_164000.zip",
+          "changelog": "https://rooting.unatried.com/MMRL/modules/PlayIntegrityFork/v16_164000.md",
+          "size": 283340
+        }
+      ]
+    },
+    {
+      "id": "Simple-Flag-Secure",
+      "name": "Simple Flag Secure",
+      "version": "v5",
+      "versionCode": 50,
+      "author": "@BuildBytes",
+      "description": "Simple Flag Secure lets you take screenshots in apps that normally block them, and hides screenshot detection (A14+). Works with Magisk, KernelSU, and Apatch.",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1761236892.0,
+      "size": 1819369,
+      "track": {
+        "type": "ONLINE_ZIP",
+        "added": null,
+        "source": "https://github.com/ShivamXD6/Simple-Flag-Secure",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/Simple-Flag-Secure/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1761236892.0,
+          "version": "v5",
+          "versionCode": 50,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/Simple-Flag-Secure/v5_50.zip",
+          "changelog": "",
+          "size": 1819369
+        },
+        {
+          "timestamp": 1761236892.0,
+          "version": "v2.0-release",
+          "versionCode": 20000,
+          "zipUrl": "https://rooting.unatried.com/modules/Simple-Flag-Secure/v2.0-release_20000.zip",
+          "changelog": "",
+          "size": 1819369
+        }
+      ]
+    },
+    {
+      "id": "SkySceneAddon",
+      "name": "SkyScene Add-on",
+      "version": "Linda (20220957) based on QTI V7.1",
+      "versionCode": 5,
+      "author": "Matt Yang (Fork: WeirdMidas)",
+      "description": "A memory management optimization module for legacy and modern devices, with compatibility between Android 8 and higher. Fork Repo: https://github.com/WeirdMidas/SkySceneAddon",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1767913767.0,
+      "size": 3011087,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.RESETPROP",
+        "magisk.permission.SEPOLICY"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "resetprop": true,
+        "sepolicy": true
+      },
+      "track": {
+        "type": "ONLINE_ZIP",
+        "added": null,
+        "source": "https://github.com/WeirdMidas/SkySceneAddon",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/SkySceneAddon/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1767913767.0,
+          "version": "Linda (20220957) based on QTI V7.1",
+          "versionCode": 5,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/SkySceneAddon/Linda_20220957_based_on_QTI_V7.1.zip",
+          "changelog": "",
+          "size": 3011087
+        },
+        {
+          "timestamp": 1767913767.0,
+          "version": "4.6 (1080-2fa4940-release)",
+          "versionCode": 1080,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/SkySceneAddon/4.6_1080-2fa4940-release.zip",
+          "changelog": "",
+          "size": 3011087
+        }
+      ]
+    },
+    {
+      "id": "SpeedCool-Magisk-Module",
+      "name": "SpeedCool",
+      "version": "v2.3",
+      "versionCode": 14,
+      "author": "Llucs",
+      "description": "SpeedCool v2.3: adaptive thermal and performance optimization with new features \u2014 per\u2011app profiles, efficiency scoring, profile export, weekly scheduling, Stealth and Hardcore modes, modular system, and intelligent updates via GitHub. The ultimate evolution of shell modules.",
+      "support": "auto_mount",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1755812897.0,
+      "size": 19857,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true
+      },
+      "track": {
+        "type": "ONLINE_ZIP",
+        "added": null,
+        "source": "https://github.com/Llucs/SpeedCool-Magisk-Module",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/SpeedCool-Magisk-Module/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1755812897.0,
+          "version": "v2.3",
+          "versionCode": 14,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/SpeedCool-Magisk-Module/v2.3_14.zip",
+          "changelog": "",
+          "size": 19857
+        }
+      ]
+    },
+    {
+      "id": "SuperMario-Tweaker",
+      "name": "SuperMario Tweaker - Snapdradon",
+      "version": "v3.0.1",
+      "versionCode": 301,
+      "author": "MRX7014",
+      "description": "A tweaker module that can improve any device performance and stability (Gaming, Daily Useage, etc...)",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1750455154.0,
+      "size": 3283646,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.RESETPROP",
+        "magisk.permission.ACTION"
+      ],
+      "features": {
+        "service": true,
+        "resetprop": true,
+        "action": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/mrx7014/SuperMario-Tweaker",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/SuperMario-Tweaker/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1750455154.0,
+          "version": "v3.0.1",
+          "versionCode": 301,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/SuperMario-Tweaker/v3.0.1_301.zip",
+          "changelog": "https://rooting.unatried.com/MMRL/modules/SuperMario-Tweaker/v3.0.1_301.md",
+          "size": 3283646
+        }
+      ]
+    },
+    {
+      "id": "TermuxRootMods",
+      "name": "Termux Root Modifications",
+      "version": "v1.0.21",
+      "versionCode": 121,
+      "author": "Rompelhd \ud83e\udd75",
+      "description": "Termux Root Modifications - The Way It Should Be",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1757117474.0,
+      "size": 312578,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/rompelhd/TermuxRootMods",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/TermuxRootMods/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1754399292.0,
+          "version": "v0.3",
+          "versionCode": 1,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/TermuxRootMods/v0.3_1.zip",
+          "changelog": "",
+          "size": 1682879
+        },
+        {
+          "timestamp": 1757117474.0,
+          "version": "v1.0.21",
+          "versionCode": 121,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/TermuxRootMods/v1.0.21_121.zip",
+          "changelog": "https://rooting.unatried.com/MMRL/modules/TermuxRootMods/v1.0.21_121.md",
+          "size": 312578
+        }
+      ]
+    },
+    {
+      "id": "Tricky-Addon-Update-Target-List",
+      "name": "Tricky Addon - Update Target List",
+      "version": "v4.3",
+      "versionCode": 635,
+      "author": "KOWX712",
+      "description": "A WebUI to conifgure tricky store target.txt ",
+      "support": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List/issues",
+      "categories": [
+        "WebUI"
+      ],
+      "readme": "https://raw.githubusercontent.com/KOWX712/Tricky-Addon-Update-Target-List/refs/heads/main/README.md",
+      "note": {
+        "message": "This module is not a part of the Tricky Store module. DO NOT report any issues to Tricky Store if encountered"
+      },
+      "license": " GPL-3.0",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1762093319.0,
+      "size": 3120144,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ACTION"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "action": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/Tricky-Addon-Update-Target-List/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1762093319.0,
+          "version": "v4.3",
+          "versionCode": 635,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/Tricky-Addon-Update-Target-List/v4.3_635.zip",
+          "changelog": "https://rooting.unatried.com/MMRL/modules/Tricky-Addon-Update-Target-List/v4.3_635.md",
+          "size": 3120144
+        }
+      ]
+    },
+    {
+      "id": "TrickyStore",
+      "name": "Tricky Store",
+      "version": "v1.4.1 (245-72b2e84-release)",
+      "versionCode": 245,
+      "author": "5ec1cff, aviraxp and Cyberenchanter",
+      "description": "A trick of keystore",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1762077393.0,
+      "size": 2840600,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY",
+        "mmrl.permission.APKS"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/5ec1cff/TrickyStore",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/TrickyStore/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1762077393.0,
+          "version": "v1.4.1 (245-72b2e84-release)",
+          "versionCode": 245,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/TrickyStore/v1.4.1_245-72b2e84-release.zip",
+          "changelog": "https://rooting.unatried.com/MMRL/modules/TrickyStore/v1.4.1_245-72b2e84-release.md",
+          "size": 2840600
+        }
+      ]
+    },
+    {
+      "id": "ZygiskNext",
+      "name": "Zygisk Next",
+      "version": "1.3.2 (688-2c60cdd-release)",
+      "versionCode": 688,
+      "author": "5ec1cff, Nullptr",
+      "description": "Standalone implementation of Zygisk.",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1766946527.0,
+      "size": 5810459,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY",
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_ZIP",
+        "added": null,
+        "source": "https://github.com/Dr-TSNG/ZygiskNext",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/ZygiskNext/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1766946527.0,
+          "version": "1.3.2 (688-2c60cdd-release)",
+          "versionCode": 688,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/ZygiskNext/1.3.2_688-2c60cdd-release.zip",
+          "changelog": "",
+          "size": 5810459
+        }
+      ]
+    },
+    {
+      "id": "encore",
+      "name": "Encore Tweaks",
+      "version": "4.6 (1080-2fa4940-release)",
+      "versionCode": 1080,
+      "author": "Rem01Gaming",
+      "description": "Special performance module for your Device.",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1752404014.0,
+      "size": 142900,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG"
+      ],
+      "features": {
+        "service": true,
+        "action": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_ZIP",
+        "added": null,
+        "source": "https://github.com/Rem01Gaming/encore",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/encore/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1752404014.0,
+          "version": "4.6 (1080-2fa4940-release)",
+          "versionCode": 1080,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/encore/4.6_1080-2fa4940-release.zip",
+          "changelog": "",
+          "size": 142900
+        }
+      ]
+    },
+    {
+      "id": "iUnlockerGL",
+      "name": "iUnlocker GLTool for android",
+      "version": "v1.1.5-r4",
+      "versionCode": 1001504,
+      "author": "Taylo@Github.com/i-taylo",
+      "description": "iUnlocker GLTool is a Magisk module designed to spoof GPU information, allowing users to modify GPU informations for unlocking graphics in games and testing.",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1767042908.0,
+      "size": 25969823,
+      "permissions": [
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ZYGISK",
+        "mmrl.permission.APKS"
+      ],
+      "features": {
+        "post_fs_data": true,
+        "zygisk": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_ZIP",
+        "added": null,
+        "source": "https://github.com/i-Taylo/iUnlockerGL",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/iUnlockerGL/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1767042908.0,
+          "version": "v1.1.5-r4",
+          "versionCode": 1001504,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/iUnlockerGL/v1.1.5-r4_1001504.zip",
+          "changelog": "",
+          "size": 25969823
+        }
+      ]
+    },
+    {
+      "id": "meta-hybrid_mount",
+      "name": "Hybrid Mount",
+      "version": "v2.5.1",
+      "versionCode": 141,
+      "author": "Hybrid Mount Developers",
+      "description": "Waiting for daemon...",
+      "metamodule": "1",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1770046467.0,
+      "size": 3972619,
+      "permissions": [
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/Hybrid-Mount/meta-hybris_mount",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/meta-hybrid_mount/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1769693896.0,
+          "version": "v2.4.1",
+          "versionCode": 139,
+          "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.4.1_139.zip",
+          "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.4.1_139.md",
+          "size": 4078549
+        },
+        {
+          "timestamp": 1769931979.0,
+          "version": "v2.5.0",
+          "versionCode": 140,
+          "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.5.0_140.zip",
+          "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.5.0_140.md",
+          "size": 3968841
+        },
+        {
+          "timestamp": 1770046467.0,
+          "version": "v2.5.1",
+          "versionCode": 141,
+          "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.5.1_141.zip",
+          "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.5.1_141.md",
+          "size": 3972619
+        }
+      ]
+    },
+    {
+      "id": "playcurlNEXT",
+      "name": "playcurlNEXT",
+      "version": "v1.19",
+      "versionCode": 119,
+      "author": "daboynb",
+      "description": "Automatic fingerprint downloader for play integrity fix.",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1769173060.0,
+      "size": 18441,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "service": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/daboynb/playcurlNEXT",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/playcurlNEXT/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1749983406.0,
+          "version": "v1.18",
+          "versionCode": 118,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/playcurlNEXT/v1.18_118.zip",
+          "changelog": "https://rooting.unatried.com/MMRL/modules/playcurlNEXT/v1.18_118.md",
+          "size": 17900
+        },
+        {
+          "timestamp": 1769173060.0,
+          "version": "v1.19",
+          "versionCode": 119,
+          "zipUrl": "https://rooting.unatried.com/modules/playcurlNEXT/v1.19_119.zip",
+          "changelog": "https://rooting.unatried.com/modules/playcurlNEXT/v1.19_119.md",
+          "size": 18441
+        }
+      ]
+    },
+    {
+      "id": "sensitive-props",
+      "name": "Sensitive Props Mod",
+      "version": "v6.5.0-hexpatch",
+      "versionCode": 60507,
+      "author": "@T3SL4",
+      "description": "Reset sensitive properties to a safe state and try to bypass Safetynet / Play Integrity.",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1762878225.0,
+      "size": 22837,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "source": "https://github.com/Pixel-Props/sensitive-props",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/sensitive-props/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1762878225.0,
+          "version": "v6.5.0-hexpatch",
+          "versionCode": 60507,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/sensitive-props/v6.5.0-hexpatch_60507.zip",
+          "changelog": "",
+          "size": 22837
+        }
+      ]
+    },
+    {
+      "id": "susfs4ksu-module",
+      "name": "SUSFS-FOR-KERNELSU",
+      "version": "v1.5.2-R25",
+      "versionCode": 105002025,
+      "author": "sidex15 & simonpunk",
+      "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1769682558.0,
+      "size": 983240,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY",
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG",
+        "kernelsu.permission.POST_MOUNT",
+        "kernelsu.permission.BOOT_COMPLETED"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true,
+        "action": true,
+        "webroot": true,
+        "post_mount": true,
+        "boot_completed": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/sidex15/susfs4ksu-module",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/susfs4ksu-module/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1767874568.0,
+          "version": "v1.5.2-R24",
+          "versionCode": 105002024,
+          "zipUrl": "https://rooting.unatried.com/MMRL/modules/susfs4ksu-module/v1.5.2-R24_105002024.zip",
+          "changelog": "https://rooting.unatried.com/MMRL/modules/susfs4ksu-module/v1.5.2-R24_105002024.md",
+          "size": 1187502
+        },
+        {
+          "timestamp": 1769682558.0,
+          "version": "v1.5.2-R25",
+          "versionCode": 105002025,
+          "zipUrl": "https://rooting.unatried.com/modules/susfs4ksu-module/v1.5.2-R25_105002025.zip",
+          "changelog": "https://rooting.unatried.com/modules/susfs4ksu-module/v1.5.2-R25_105002025.md",
+          "size": 983240
+        }
+      ]
+    }
+  ]
+}
