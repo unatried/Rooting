@@ -3,14 +3,6 @@
   "timestamp": 1768665482.0,
   "versions": [
     {
-      "timestamp": 1769355051.0,
-      "version": "v2.3.0",
-      "versionCode": 137,
-      "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.3.0_137.zip",
-      "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.3.0_137.md",
-      "size": 3912198
-    },
-    {
       "timestamp": 1769693896.0,
       "version": "v2.4.1",
       "versionCode": 139,
@@ -25,6 +17,14 @@
       "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.5.0_140.zip",
       "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.5.0_140.md",
       "size": 3968841
+    },
+    {
+      "timestamp": 1770046467.0,
+      "version": "v2.5.1",
+      "versionCode": 141,
+      "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.5.1_141.zip",
+      "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.5.1_141.md",
+      "size": 3972619
     }
   ]
 }
