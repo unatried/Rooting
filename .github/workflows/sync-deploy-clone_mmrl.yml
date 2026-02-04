@@ -78,6 +78,11 @@ jobs:
           echo "$(cat latest_versions.md)" >> $GITHUB_STEP_SUMMARY
           rm latest_versions.md
 
+      - name: Refresh refs after sync
+        run: |
+          git fetch origin MMRL
+          git reset --hard origin/MMRL
+
       - name: Index and Push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
