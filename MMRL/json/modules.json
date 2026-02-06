@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1770151058.847592
+    "timestamp": 1770416192.865447
   },
   "modules": [
     {
@@ -29,6 +29,7 @@
       "features": {
         "post_fs_data": true
       },
+      "stars": 378,
       "track": {
         "type": "GIT",
         "added": null,
@@ -41,7 +42,7 @@
           "timestamp": 1757052357.0,
           "version": "v1.4.0",
           "versionCode": 1400,
-          "zipUrl": "https://rooting.unatried.com/MMRL/modules/BetterKnownInstalled/v1.4.0_1400.zip",
+          "zipUrl": "https://rooting.unatried.com/modules/BetterKnownInstalled/v1.4.0_1400.zip",
           "changelog": "",
           "size": 1794756
         }
@@ -65,6 +66,7 @@
       "features": {
         "resetprop": true
       },
+      "stars": 44,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -101,6 +103,7 @@
       "features": {
         "apks": true
       },
+      "stars": 10,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -113,7 +116,7 @@
           "timestamp": 1754399292.0,
           "version": "v0.3",
           "versionCode": 1,
-          "zipUrl": "https://rooting.unatried.com/MMRL/modules/Haruka/v0.3_1.zip",
+          "zipUrl": "https://rooting.unatried.com/modules/Haruka/v0.3_1.zip",
           "changelog": "",
           "size": 1682879
         }
@@ -141,6 +144,7 @@
         "service": true,
         "post_fs_data": true
       },
+      "stars": 78,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -193,6 +197,7 @@
         "action": true,
         "apks": true
       },
+      "stars": 9473,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -230,6 +235,7 @@
       "added": 0,
       "timestamp": 1756522107.0,
       "size": 852186,
+      "stars": 298,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -271,6 +277,7 @@
         "sepolicy": true,
         "action": true
       },
+      "stars": 1342,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -310,6 +317,7 @@
         "webroot": true,
         "apks": true
       },
+      "stars": 8,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -350,6 +358,7 @@
         "post_fs_data": true,
         "action": true
       },
+      "stars": 3732,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -362,8 +371,8 @@
           "timestamp": 1767920634.0,
           "version": "v16",
           "versionCode": 164000,
-          "zipUrl": "https://rooting.unatried.com/MMRL/modules/PlayIntegrityFork/v16_164000.zip",
-          "changelog": "https://rooting.unatried.com/MMRL/modules/PlayIntegrityFork/v16_164000.md",
+          "zipUrl": "https://rooting.unatried.com/modules/PlayIntegrityFork/v16_164000.zip",
+          "changelog": "https://rooting.unatried.com/modules/PlayIntegrityFork/v16_164000.md",
           "size": 283340
         }
       ]
@@ -379,6 +388,7 @@
       "added": 0,
       "timestamp": 1761236892.0,
       "size": 1819369,
+      "stars": 67,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -428,6 +438,7 @@
         "resetprop": true,
         "sepolicy": true
       },
+      "stars": 23,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -474,6 +485,7 @@
         "service": true,
         "post_fs_data": true
       },
+      "stars": 34,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -513,6 +525,7 @@
         "resetprop": true,
         "action": true
       },
+      "stars": 30,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -542,6 +555,7 @@
       "added": 0,
       "timestamp": 1757117474.0,
       "size": 312578,
+      "stars": 144,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -551,19 +565,11 @@
       },
       "versions": [
         {
-          "timestamp": 1754399292.0,
-          "version": "v0.3",
-          "versionCode": 1,
-          "zipUrl": "https://rooting.unatried.com/MMRL/modules/TermuxRootMods/v0.3_1.zip",
-          "changelog": "",
-          "size": 1682879
-        },
-        {
           "timestamp": 1757117474.0,
           "version": "v1.0.21",
           "versionCode": 121,
-          "zipUrl": "https://rooting.unatried.com/MMRL/modules/TermuxRootMods/v1.0.21_121.zip",
-          "changelog": "https://rooting.unatried.com/MMRL/modules/TermuxRootMods/v1.0.21_121.md",
+          "zipUrl": "https://rooting.unatried.com/modules/TermuxRootMods/v1.0.21_121.zip",
+          "changelog": "https://rooting.unatried.com/modules/TermuxRootMods/v1.0.21_121.md",
           "size": 312578
         }
       ]
@@ -598,6 +604,7 @@
         "post_fs_data": true,
         "action": true
       },
+      "stars": 2629,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -610,8 +617,8 @@
           "timestamp": 1762093319.0,
           "version": "v4.3",
           "versionCode": 635,
-          "zipUrl": "https://rooting.unatried.com/MMRL/modules/Tricky-Addon-Update-Target-List/v4.3_635.zip",
-          "changelog": "https://rooting.unatried.com/MMRL/modules/Tricky-Addon-Update-Target-List/v4.3_635.md",
+          "zipUrl": "https://rooting.unatried.com/modules/Tricky-Addon-Update-Target-List/v4.3_635.zip",
+          "changelog": "https://rooting.unatried.com/modules/Tricky-Addon-Update-Target-List/v4.3_635.md",
           "size": 3120144
         }
       ]
@@ -639,6 +646,7 @@
         "sepolicy": true,
         "apks": true
       },
+      "stars": 5159,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -651,8 +659,8 @@
           "timestamp": 1762077393.0,
           "version": "v1.4.1 (245-72b2e84-release)",
           "versionCode": 245,
-          "zipUrl": "https://rooting.unatried.com/MMRL/modules/TrickyStore/v1.4.1_245-72b2e84-release.zip",
-          "changelog": "https://rooting.unatried.com/MMRL/modules/TrickyStore/v1.4.1_245-72b2e84-release.md",
+          "zipUrl": "https://rooting.unatried.com/modules/TrickyStore/v1.4.1_245-72b2e84-release.zip",
+          "changelog": "https://rooting.unatried.com/modules/TrickyStore/v1.4.1_245-72b2e84-release.md",
           "size": 2840600
         }
       ]
@@ -680,6 +688,7 @@
         "sepolicy": true,
         "webroot": true
       },
+      "stars": 8495,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -720,6 +729,7 @@
         "action": true,
         "webroot": true
       },
+      "stars": 356,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -759,6 +769,7 @@
         "zygisk": true,
         "apks": true
       },
+      "stars": 56,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -780,15 +791,15 @@
     {
       "id": "meta-hybrid_mount",
       "name": "Hybrid Mount",
-      "version": "v2.5.1",
-      "versionCode": 141,
+      "version": "v3.0.1",
+      "versionCode": 144,
       "author": "Hybrid Mount Developers",
       "description": "Waiting for daemon...",
       "metamodule": "1",
       "verified": false,
       "added": 0,
-      "timestamp": 1770046467.0,
-      "size": 3972619,
+      "timestamp": 1770309934.0,
+      "size": 4008448,
       "permissions": [
         "kernelsu.permission.WEBUI"
       ],
@@ -804,14 +815,6 @@
       },
       "versions": [
         {
-          "timestamp": 1769693896.0,
-          "version": "v2.4.1",
-          "versionCode": 139,
-          "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.4.1_139.zip",
-          "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.4.1_139.md",
-          "size": 4078549
-        },
-        {
           "timestamp": 1769931979.0,
           "version": "v2.5.0",
           "versionCode": 140,
@@ -826,6 +829,14 @@
           "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.5.1_141.zip",
           "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.5.1_141.md",
           "size": 3972619
+        },
+        {
+          "timestamp": 1770309934.0,
+          "version": "v3.0.1",
+          "versionCode": 144,
+          "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/v3.0.1_144.zip",
+          "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/v3.0.1_144.md",
+          "size": 4008448
         }
       ]
     },
@@ -848,6 +859,7 @@
         "service": true,
         "webroot": true
       },
+      "stars": 726,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -893,6 +905,7 @@
         "service": true,
         "post_fs_data": true
       },
+      "stars": 283,
       "track": {
         "type": "GIT",
         "added": null,
@@ -905,7 +918,7 @@
           "timestamp": 1762878225.0,
           "version": "v6.5.0-hexpatch",
           "versionCode": 60507,
-          "zipUrl": "https://rooting.unatried.com/MMRL/modules/sensitive-props/v6.5.0-hexpatch_60507.zip",
+          "zipUrl": "https://rooting.unatried.com/modules/sensitive-props/v6.5.0-hexpatch_60507.zip",
           "changelog": "",
           "size": 22837
         }
@@ -941,6 +954,7 @@
         "post_mount": true,
         "boot_completed": true
       },
+      "stars": 2023,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,

@@ -1,0 +1,14 @@
+{
+  "id": "TermuxRootMods",
+  "timestamp": 1757117474.0,
+  "versions": [
+    {
+      "timestamp": 1757117474.0,
+      "version": "v1.0.21",
+      "versionCode": 121,
+      "zipUrl": "https://rooting.unatried.com/modules/TermuxRootMods/v1.0.21_121.zip",
+      "changelog": "https://rooting.unatried.com/modules/TermuxRootMods/v1.0.21_121.md",
+      "size": 312578
+    }
+  ]
+}
