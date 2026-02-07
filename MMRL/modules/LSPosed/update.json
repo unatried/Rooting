@@ -1,0 +1,14 @@
+{
+  "id": "LSPosed",
+  "timestamp": 1769900057.0,
+  "versions": [
+    {
+      "timestamp": 1769900057.0,
+      "version": "v1.11.0 (7209)",
+      "versionCode": 7209,
+      "zipUrl": "https://rooting.unatried.com/modules/LSPosed/v1.11.0_7209.zip",
+      "changelog": "https://rooting.unatried.com/modules/LSPosed/v1.11.0_7209.md",
+      "size": 6785684
+    }
+  ]
+}

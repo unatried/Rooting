@@ -1,0 +1,14 @@
+{
+  "id": "PerfGame",
+  "timestamp": 1747059112.0,
+  "versions": [
+    {
+      "timestamp": 1747059112.0,
+      "version": "v2.0-release",
+      "versionCode": 20000,
+      "zipUrl": "https://rooting.unatried.com/modules/PerfGame/v2.0-release_20000.zip",
+      "changelog": "",
+      "size": 1127322
+    }
+  ]
+}

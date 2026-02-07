@@ -1,0 +1,14 @@
+{
+  "id": "encore",
+  "timestamp": 1752404014.0,
+  "versions": [
+    {
+      "timestamp": 1752404014.0,
+      "version": "4.6 (1080-2fa4940-release)",
+      "versionCode": 1080,
+      "zipUrl": "https://rooting.unatried.com/modules/encore/4.6_1080-2fa4940-release.zip",
+      "changelog": "",
+      "size": 142900
+    }
+  ]
+}
