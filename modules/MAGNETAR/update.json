@@ -1,0 +1,14 @@
+{
+  "id": "MAGNETAR",
+  "timestamp": 1756522107.0,
+  "versions": [
+    {
+      "timestamp": 1756522107.0,
+      "version": "19.6.0 (YANKEE)",
+      "versionCode": 196000,
+      "zipUrl": "https://rooting.unatried.com/modules/MAGNETAR/19.6.0_YANKEE_196000.zip",
+      "changelog": "https://rooting.unatried.com/modules/MAGNETAR/19.6.0_YANKEE_196000.md",
+      "size": 852186
+    }
+  ]
+}

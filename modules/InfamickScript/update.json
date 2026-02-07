@@ -1,0 +1,14 @@
+{
+  "id": "InfamickScript",
+  "timestamp": 1749748742.0,
+  "versions": [
+    {
+      "timestamp": 1749748742.0,
+      "version": "v3.3",
+      "versionCode": 202506121,
+      "zipUrl": "https://rooting.unatried.com/modules/InfamickScript/v3.3_202506121.zip",
+      "changelog": "https://rooting.unatried.com/modules/InfamickScript/v3.3_202506121.md",
+      "size": 23487
+    }
+  ]
+}
