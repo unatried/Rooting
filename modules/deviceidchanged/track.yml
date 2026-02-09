@@ -1,0 +1,3 @@
+enabled: true
+id: deviceidchanger
+update_to: https://raw.githubusercontent.com/sidex15/deviceidchanger/main/module/update.json
