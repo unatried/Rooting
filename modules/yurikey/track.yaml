@@ -1,4 +1,4 @@
-enabled: true
+enable: true
 id: yurikey
 source: https://github.com/Yurii0307/yurikey
 update_to: https://raw.githubusercontent.com/Yurii0307/yurikey/main/update.json
