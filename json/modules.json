@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1770793986.629348
+    "timestamp": 1770816425.685765
   },
   "modules": [
     {
@@ -197,7 +197,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 9534,
+      "stars": 9538,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -350,7 +350,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3754,
+      "stars": 3757,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -630,7 +630,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5191,
+      "stars": 5195,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -672,7 +672,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8545,
+      "stars": 8548,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -753,7 +753,7 @@
         "zygisk": true,
         "apks": true
       },
-      "stars": 59,
+      "stars": 61,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -775,15 +775,15 @@
     {
       "id": "meta-hybrid_mount",
       "name": "Hybrid Mount",
-      "version": "v3.0.13",
-      "versionCode": 147,
+      "version": "3.0.14-1176",
+      "versionCode": 148,
       "author": "Hybrid Mount Developers",
       "description": "Waiting for daemon...",
       "metamodule": "1",
       "verified": false,
       "added": 0,
-      "timestamp": 1770562552.0,
-      "size": 3137490,
+      "timestamp": 1770808060.0,
+      "size": 3994478,
       "permissions": [
         "kernelsu.permission.WEBUI"
       ],
@@ -799,14 +799,6 @@
       },
       "versions": [
         {
-          "timestamp": 1770046467.0,
-          "version": "v2.5.1",
-          "versionCode": 141,
-          "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.5.1_141.zip",
-          "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/v2.5.1_141.md",
-          "size": 3972619
-        },
-        {
           "timestamp": 1770309934.0,
           "version": "v3.0.1",
           "versionCode": 144,
@@ -821,6 +813,14 @@
           "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/v3.0.13_147.zip",
           "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/v3.0.13_147.md",
           "size": 3137490
+        },
+        {
+          "timestamp": 1770808060.0,
+          "version": "3.0.14-1176",
+          "versionCode": 148,
+          "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/3.0.14-1176_148.zip",
+          "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/3.0.14-1176_148.md",
+          "size": 3994478
         }
       ]
     },
