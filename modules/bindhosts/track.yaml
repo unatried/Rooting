@@ -1,4 +1,6 @@
 enable: true
 id: bindhosts
+last_update: 1769529253.0
 source: https://github.com/bindhosts/bindhosts
 update_to: https://raw.githubusercontent.com/bindhosts/bindhosts/master/update.json
+versions: 1

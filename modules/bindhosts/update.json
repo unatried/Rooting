@@ -1,0 +1,14 @@
+{
+  "id": "bindhosts",
+  "timestamp": 1769529253.0,
+  "versions": [
+    {
+      "timestamp": 1769529253.0,
+      "version": "v2.1.1",
+      "versionCode": 211,
+      "zipUrl": "https://rooting.unatried.com/modules/bindhosts/v2.1.1_211.zip",
+      "changelog": "https://rooting.unatried.com/modules/bindhosts/v2.1.1_211.md",
+      "size": 132047
+    }
+  ]
+}

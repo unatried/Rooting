@@ -1,0 +1,14 @@
+{
+  "id": "yurikey",
+  "timestamp": 1767577198.0,
+  "versions": [
+    {
+      "timestamp": 1767577198.0,
+      "version": "2.41",
+      "versionCode": 241,
+      "zipUrl": "https://rooting.unatried.com/modules/yurikey/2.41_241.zip",
+      "changelog": "https://rooting.unatried.com/modules/yurikey/2.41_241.md",
+      "size": 406409
+    }
+  ]
+}

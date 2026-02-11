@@ -1,4 +1,6 @@
 enable: true
 id: deviceidchanger
+last_update: 1764517494.0
 source: https://github.com/sidex15/deviceidchanger
 update_to: https://raw.githubusercontent.com/sidex15/deviceidchanger/main/module/update.json
+versions: 1
