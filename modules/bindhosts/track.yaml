@@ -1,4 +1,4 @@
-enabled: true
+enable: true
 id: bindhosts
 source: https://github.com/bindhosts/bindhosts
 update_to: https://raw.githubusercontent.com/bindhosts/bindhosts/master/update.json
