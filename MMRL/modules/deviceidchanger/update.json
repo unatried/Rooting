@@ -1,0 +1,14 @@
+{
+  "id": "deviceidchanger",
+  "timestamp": 1764517494.0,
+  "versions": [
+    {
+      "timestamp": 1764517494.0,
+      "version": "v1.2.1",
+      "versionCode": 1000201,
+      "zipUrl": "https://rooting.unatried.com/modules/deviceidchanger/v1.2.1_1000201.zip",
+      "changelog": "https://rooting.unatried.com/modules/deviceidchanger/v1.2.1_1000201.md",
+      "size": 5074556
+    }
+  ]
+}

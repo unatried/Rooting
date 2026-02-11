@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1770837196.212633
+    "timestamp": 1770850547.441207
   },
   "modules": [
     {
@@ -29,7 +29,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 388,
+      "stars": 389,
       "track": {
         "type": "GIT",
         "added": null,
@@ -350,7 +350,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3755,
+      "stars": 3757,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -692,6 +692,99 @@
       ]
     },
     {
+      "id": "bindhosts",
+      "name": "bindhosts",
+      "version": "v2.1.1",
+      "versionCode": 211,
+      "author": "xx, KOWX712",
+      "description": "Systemless hosts for APatch, KernelSU and Magisk ",
+      "readme": "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/README.md",
+      "screenshots": [
+        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_manager.png",
+        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_webui.png",
+        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/manager_action.png"
+      ],
+      "categories": [
+        "Adblocking and Hosts Files",
+        "APatch",
+        "KernelSU",
+        "Magisk"
+      ],
+      "support": "https://github.com/bindhosts/bindhosts/issues",
+      "license": "WTFPL",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1769529253.0,
+      "size": 132047,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "action": true,
+        "webroot": true
+      },
+      "stars": 1064,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/bindhosts/bindhosts",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/bindhosts/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1769529253.0,
+          "version": "v2.1.1",
+          "versionCode": 211,
+          "zipUrl": "https://rooting.unatried.com/modules/bindhosts/v2.1.1_211.zip",
+          "changelog": "https://rooting.unatried.com/modules/bindhosts/v2.1.1_211.md",
+          "size": 132047
+        }
+      ]
+    },
+    {
+      "id": "deviceidchanger",
+      "name": "DeviceID/SSAID Changer",
+      "version": "v1.2.1",
+      "versionCode": 1000201,
+      "author": "sidex15",
+      "description": "A simple WebUI Module to change SSAID/DeviceID on Rooted Android Devices with Apatch, KSU (And its forks), or Magisk.",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1764517494.0,
+      "size": 5074556,
+      "permissions": [
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "webroot": true
+      },
+      "stars": 192,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/sidex15/deviceidchanger",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/deviceidchanger/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1764517494.0,
+          "version": "v1.2.1",
+          "versionCode": 1000201,
+          "zipUrl": "https://rooting.unatried.com/modules/deviceidchanger/v1.2.1_1000201.zip",
+          "changelog": "https://rooting.unatried.com/modules/deviceidchanger/v1.2.1_1000201.md",
+          "size": 5074556
+        }
+      ]
+    },
+    {
       "id": "encore",
       "name": "Encore Tweaks",
       "version": "4.6 (1080-2fa4940-release)",
@@ -954,6 +1047,45 @@
           "zipUrl": "https://rooting.unatried.com/modules/susfs4ksu-module/v1.5.2-R25_105002025.zip",
           "changelog": "https://rooting.unatried.com/modules/susfs4ksu-module/v1.5.2-R25_105002025.md",
           "size": 983240
+        }
+      ]
+    },
+    {
+      "id": "yurikey",
+      "name": "Yuri Keybox Manager",
+      "version": "2.41",
+      "versionCode": 241,
+      "author": "Yurikey Dev",
+      "description": "A systemless module to get strong integrity so easily",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1767577198.0,
+      "size": 406409,
+      "permissions": [
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG"
+      ],
+      "features": {
+        "action": true,
+        "webroot": true
+      },
+      "stars": 1064,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/Yurii0307/yurikey",
+        "antifeatures": null,
+        "build_metadata": "https://rooting.unatried.com/modules/yurikey/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1767577198.0,
+          "version": "2.41",
+          "versionCode": 241,
+          "zipUrl": "https://rooting.unatried.com/modules/yurikey/2.41_241.zip",
+          "changelog": "https://rooting.unatried.com/modules/yurikey/2.41_241.md",
+          "size": 406409
         }
       ]
     }
