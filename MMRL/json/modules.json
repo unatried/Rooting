@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1771009269.424152
+    "timestamp": 1771036833.749698
   },
   "modules": [
     {
@@ -197,7 +197,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 9576,
+      "stars": 9579,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -249,14 +249,14 @@
     {
       "id": "NeoZygisk",
       "name": "NeoZygisk",
-      "version": "v2.2 (266-559fc1d-release)",
-      "versionCode": 266,
+      "version": "v2.3 (275-671937c-release)",
+      "versionCode": 275,
       "author": "JingMatrix",
       "description": "Zygote injection with ptrace.",
       "verified": false,
       "added": 0,
-      "timestamp": 1757862999.0,
-      "size": 3285848,
+      "timestamp": 1771031332.0,
+      "size": 3208704,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -285,6 +285,14 @@
           "zipUrl": "https://rooting.unatried.com/modules/NeoZygisk/v2.2_266-559fc1d-release.zip",
           "changelog": "https://rooting.unatried.com/modules/NeoZygisk/v2.2_266-559fc1d-release.md",
           "size": 3285848
+        },
+        {
+          "timestamp": 1771031332.0,
+          "version": "v2.3 (275-671937c-release)",
+          "versionCode": 275,
+          "zipUrl": "https://rooting.unatried.com/modules/NeoZygisk/v2.3_275-671937c-release.zip",
+          "changelog": "https://rooting.unatried.com/modules/NeoZygisk/v2.3_275-671937c-release.md",
+          "size": 3208704
         }
       ]
     },
@@ -350,7 +358,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3761,
+      "stars": 3762,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -588,7 +596,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2662,
+      "stars": 2663,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -630,7 +638,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5204,
+      "stars": 5206,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -672,7 +680,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8561,
+      "stars": 8563,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -729,7 +737,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1074,
+      "stars": 1075,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -806,7 +814,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 356,
+      "stars": 355,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
