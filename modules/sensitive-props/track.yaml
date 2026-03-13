@@ -1,6 +1,6 @@
 enable: true
 id: sensitive-props
-last_update: 1773327180.0
+last_update: 1773417972.0
 source: https://github.com/Pixel-Props/sensitive-props
 update_to: https://github.com/Pixel-Props/sensitive-props.git
-versions: 2
+versions: 3
