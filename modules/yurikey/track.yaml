@@ -1,6 +1,6 @@
 enable: true
 id: yurikey
-last_update: 1767577198.0
+last_update: 1773540061.0
 source: https://github.com/Yurii0307/yurikey
 update_to: https://raw.githubusercontent.com/Yurii0307/yurikey/main/update.json
-versions: 1
+versions: 2
