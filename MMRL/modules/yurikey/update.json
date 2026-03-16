@@ -17,6 +17,14 @@
       "zipUrl": "https://rooting.unatried.com/modules/yurikey/v2.51_251.zip",
       "changelog": "https://rooting.unatried.com/modules/yurikey/v2.51_251.md",
       "size": 412182
+    },
+    {
+      "timestamp": 1773601273.0,
+      "version": "v2.52",
+      "versionCode": 252,
+      "zipUrl": "https://rooting.unatried.com/modules/yurikey/v2.52_252.zip",
+      "changelog": "https://rooting.unatried.com/modules/yurikey/v2.52_252.md",
+      "size": 410550
     }
   ]
 }
