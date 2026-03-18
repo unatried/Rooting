@@ -17,6 +17,14 @@
       "zipUrl": "https://rooting.unatried.com/modules/BetterKnownInstalled/v6.5.0-hexpatch_60507.zip",
       "changelog": "",
       "size": 1794756
+    },
+    {
+      "timestamp": 1757052357.0,
+      "version": "v6.6.0-hexpatch",
+      "versionCode": 60600,
+      "zipUrl": "https://rooting.unatried.com/modules/BetterKnownInstalled/v6.6.0-hexpatch_60600.zip",
+      "changelog": "",
+      "size": 1794756
     }
   ]
 }
