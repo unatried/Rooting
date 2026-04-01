@@ -9,6 +9,14 @@
       "zipUrl": "https://rooting.unatried.com/modules/bindhosts/v2.1.1_211.zip",
       "changelog": "https://rooting.unatried.com/modules/bindhosts/v2.1.1_211.md",
       "size": 132047
+    },
+    {
+      "timestamp": 1775012009.0,
+      "version": "v2.1.2",
+      "versionCode": 212,
+      "zipUrl": "https://rooting.unatried.com/modules/bindhosts/v2.1.2_212.zip",
+      "changelog": "https://rooting.unatried.com/modules/bindhosts/v2.1.2_212.md",
+      "size": 165660
     }
   ]
 }

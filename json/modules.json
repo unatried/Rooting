@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1774984340.792001
+    "timestamp": 1775014151.221916
   },
   "modules": [
     {
@@ -29,7 +29,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 421,
+      "stars": 422,
       "track": {
         "type": "GIT",
         "added": null,
@@ -213,7 +213,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 10419,
+      "stars": 10434,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -374,7 +374,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3990,
+      "stars": 3991,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -612,7 +612,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2921,
+      "stars": 2922,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -654,7 +654,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5585,
+      "stars": 5586,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -696,7 +696,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9061,
+      "stars": 9066,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -718,8 +718,8 @@
     {
       "id": "bindhosts",
       "name": "bindhosts",
-      "version": "v2.1.1",
-      "versionCode": 211,
+      "version": "v2.1.2",
+      "versionCode": 212,
       "author": "xx, KOWX712",
       "description": "Systemless hosts for APatch, KernelSU and Magisk ",
       "readme": "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/README.md",
@@ -738,8 +738,8 @@
       "license": "WTFPL",
       "verified": false,
       "added": 0,
-      "timestamp": 1769529253.0,
-      "size": 132047,
+      "timestamp": 1775012009.0,
+      "size": 165660,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -769,6 +769,14 @@
           "zipUrl": "https://rooting.unatried.com/modules/bindhosts/v2.1.1_211.zip",
           "changelog": "https://rooting.unatried.com/modules/bindhosts/v2.1.1_211.md",
           "size": 132047
+        },
+        {
+          "timestamp": 1775012009.0,
+          "version": "v2.1.2",
+          "versionCode": 212,
+          "zipUrl": "https://rooting.unatried.com/modules/bindhosts/v2.1.2_212.zip",
+          "changelog": "https://rooting.unatried.com/modules/bindhosts/v2.1.2_212.md",
+          "size": 165660
         }
       ]
     },
@@ -1010,7 +1018,7 @@
         "post_fs_data": true,
         "sepolicy": true
       },
-      "stars": 331,
+      "stars": 336,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1075,7 +1083,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2167,
+      "stars": 2166,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
