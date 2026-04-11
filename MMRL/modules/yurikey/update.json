@@ -3,14 +3,6 @@
   "timestamp": 1767577198.0,
   "versions": [
     {
-      "timestamp": 1774334293.0,
-      "version": "v2.60",
-      "versionCode": 260,
-      "zipUrl": "https://rooting.unatried.com/modules/yurikey/v2.60_260.zip",
-      "changelog": "https://rooting.unatried.com/modules/yurikey/v2.60_260.md",
-      "size": 2204789
-    },
-    {
       "timestamp": 1774435656.0,
       "version": "v2.61",
       "versionCode": 261,
@@ -25,6 +17,14 @@
       "zipUrl": "https://rooting.unatried.com/modules/yurikey/v3.0.0_300.zip",
       "changelog": "https://rooting.unatried.com/modules/yurikey/v3.0.0_300.md",
       "size": 426055
+    },
+    {
+      "timestamp": 1775925305.0,
+      "version": "v3.0.1",
+      "versionCode": 301,
+      "zipUrl": "https://rooting.unatried.com/modules/yurikey/v3.0.1_301.zip",
+      "changelog": "https://rooting.unatried.com/modules/yurikey/v3.0.1_301.md",
+      "size": 2214707
     }
   ]
 }
