@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1775913280.079525
+    "timestamp": 1775933820.764045
   },
   "modules": [
     {
@@ -213,7 +213,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 10648,
+      "stars": 10655,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -285,7 +285,7 @@
         "sepolicy": true,
         "action": true
       },
-      "stars": 1678,
+      "stars": 1680,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -374,7 +374,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 4034,
+      "stars": 4037,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -611,7 +611,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2972,
+      "stars": 2974,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -653,7 +653,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5655,
+      "stars": 5658,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -695,7 +695,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9187,
+      "stars": 9188,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -752,7 +752,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1197,
+      "stars": 1198,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1082,7 +1082,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2195,
+      "stars": 2194,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1120,14 +1120,14 @@
     {
       "id": "yurikey",
       "name": "Yurikey Manager",
-      "version": "v3.0.0",
-      "versionCode": 300,
+      "version": "v3.0.1",
+      "versionCode": 301,
       "author": "Yurikey Dev",
       "description": "A systemless module to get strong integrity so easily",
       "verified": false,
       "added": 0,
-      "timestamp": 1775882186.0,
-      "size": 426055,
+      "timestamp": 1775925305.0,
+      "size": 2214707,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.ACTION",
@@ -1139,7 +1139,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1469,
+      "stars": 1471,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1148,14 +1148,6 @@
         "build_metadata": "https://rooting.unatried.com/modules/yurikey/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1774334293.0,
-          "version": "v2.60",
-          "versionCode": 260,
-          "zipUrl": "https://rooting.unatried.com/modules/yurikey/v2.60_260.zip",
-          "changelog": "https://rooting.unatried.com/modules/yurikey/v2.60_260.md",
-          "size": 2204789
-        },
         {
           "timestamp": 1774435656.0,
           "version": "v2.61",
@@ -1171,6 +1163,14 @@
           "zipUrl": "https://rooting.unatried.com/modules/yurikey/v3.0.0_300.zip",
           "changelog": "https://rooting.unatried.com/modules/yurikey/v3.0.0_300.md",
           "size": 426055
+        },
+        {
+          "timestamp": 1775925305.0,
+          "version": "v3.0.1",
+          "versionCode": 301,
+          "zipUrl": "https://rooting.unatried.com/modules/yurikey/v3.0.1_301.zip",
+          "changelog": "https://rooting.unatried.com/modules/yurikey/v3.0.1_301.md",
+          "size": 2214707
         }
       ]
     }
