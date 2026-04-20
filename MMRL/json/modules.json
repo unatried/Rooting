@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1776625318.172688
+    "timestamp": 1776656289.161875
   },
   "modules": [
     {
@@ -213,7 +213,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 10793,
+      "stars": 10796,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -653,7 +653,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5721,
+      "stars": 5720,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
