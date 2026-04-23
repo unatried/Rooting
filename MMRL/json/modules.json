@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1776931575.824015
+    "timestamp": 1776952921.971141
   },
   "modules": [
     {
@@ -213,7 +213,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 10843,
+      "stars": 10844,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -285,7 +285,7 @@
         "sepolicy": true,
         "action": true
       },
-      "stars": 1756,
+      "stars": 1759,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -374,7 +374,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 4051,
+      "stars": 4050,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1082,7 +1082,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2217,
+      "stars": 2219,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1120,14 +1120,14 @@
     {
       "id": "yurikey",
       "name": "Yurikey Manager",
-      "version": "v3.0.3",
-      "versionCode": 303,
+      "version": "v3.1.0",
+      "versionCode": 310,
       "author": "Yurikey Dev",
       "description": "A systemless module to get strong integrity so easily",
       "verified": false,
       "added": 0,
-      "timestamp": 1776360883.0,
-      "size": 2217150,
+      "timestamp": 1776943968.0,
+      "size": 2219930,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.ACTION",
@@ -1139,7 +1139,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1512,
+      "stars": 1514,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1148,14 +1148,6 @@
         "build_metadata": "https://rooting.unatried.com/modules/yurikey/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1775882186.0,
-          "version": "v3.0.0",
-          "versionCode": 300,
-          "zipUrl": "https://rooting.unatried.com/modules/yurikey/v3.0.0_300.zip",
-          "changelog": "https://rooting.unatried.com/modules/yurikey/v3.0.0_300.md",
-          "size": 426055
-        },
         {
           "timestamp": 1775925305.0,
           "version": "v3.0.1",
@@ -1171,6 +1163,14 @@
           "zipUrl": "https://rooting.unatried.com/modules/yurikey/v3.0.3_303.zip",
           "changelog": "https://rooting.unatried.com/modules/yurikey/v3.0.3_303.md",
           "size": 2217150
+        },
+        {
+          "timestamp": 1776943968.0,
+          "version": "v3.1.0",
+          "versionCode": 310,
+          "zipUrl": "https://rooting.unatried.com/modules/yurikey/v3.1.0_310.zip",
+          "changelog": "https://rooting.unatried.com/modules/yurikey/v3.1.0_310.md",
+          "size": 2219930
         }
       ]
     }
