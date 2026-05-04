@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1777866802.827167
+    "timestamp": 1777883929.476115
   },
   "modules": [
     {
@@ -29,7 +29,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 450,
+      "stars": 452,
       "track": {
         "type": "GIT",
         "added": null,
@@ -213,7 +213,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 11005,
+      "stars": 11007,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -374,7 +374,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 4077,
+      "stars": 4080,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -611,7 +611,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3048,
+      "stars": 3050,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -653,7 +653,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5804,
+      "stars": 5805,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -695,7 +695,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9368,
+      "stars": 9369,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -717,8 +717,8 @@
     {
       "id": "bindhosts",
       "name": "bindhosts",
-      "version": "v2.1.2",
-      "versionCode": 212,
+      "version": "v2.1.3",
+      "versionCode": 213,
       "author": "xx, KOWX712",
       "description": "Systemless hosts for APatch, KernelSU and Magisk ",
       "readme": "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/README.md",
@@ -737,20 +737,22 @@
       "license": "WTFPL",
       "verified": false,
       "added": 0,
-      "timestamp": 1775012009.0,
-      "size": 165660,
+      "timestamp": 1777875953.0,
+      "size": 166753,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI",
-        "mmrl.permission.WEBUI_CONFIG"
+        "mmrl.permission.WEBUI_CONFIG",
+        "kernelsu.permission.BOOT_COMPLETED"
       ],
       "features": {
         "service": true,
         "post_fs_data": true,
         "action": true,
-        "webroot": true
+        "webroot": true,
+        "boot_completed": true
       },
       "stars": 1241,
       "track": {
@@ -776,6 +778,14 @@
           "zipUrl": "https://rooting.unatried.com/modules/bindhosts/v2.1.2_212.zip",
           "changelog": "https://rooting.unatried.com/modules/bindhosts/v2.1.2_212.md",
           "size": 165660
+        },
+        {
+          "timestamp": 1777875953.0,
+          "version": "v2.1.3",
+          "versionCode": 213,
+          "zipUrl": "https://rooting.unatried.com/modules/bindhosts/v2.1.3_213.zip",
+          "changelog": "https://rooting.unatried.com/modules/bindhosts/v2.1.3_213.md",
+          "size": 166753
         }
       ]
     },
@@ -1139,7 +1149,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1562,
+      "stars": 1561,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
