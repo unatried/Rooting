@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1779544373.689758
+    "timestamp": 1779564071.532174
   },
   "modules": [
     {
@@ -82,7 +82,7 @@
       "features": {
         "resetprop": true
       },
-      "stars": 43,
+      "stars": 42,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -213,7 +213,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 11246,
+      "stars": 11248,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -374,7 +374,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 4140,
+      "stars": 4141,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -611,7 +611,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3133,
+      "stars": 3132,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -695,7 +695,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9522,
+      "stars": 9523,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -806,7 +806,7 @@
       "features": {
         "webroot": true
       },
-      "stars": 237,
+      "stars": 238,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1149,7 +1149,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1621,
+      "stars": 1620,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
