@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1781965192.20286
+    "timestamp": 1781984836.913965
   },
   "modules": [
     {
@@ -285,7 +285,7 @@
         "sepolicy": true,
         "action": true
       },
-      "stars": 1989,
+      "stars": 1988,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -355,14 +355,14 @@
     {
       "id": "PlayIntegrityFork",
       "name": "Play Integrity Fork",
-      "version": "v16",
-      "versionCode": 164000,
+      "version": "v17",
+      "versionCode": 170000,
       "author": "osm0sis & chiteroman @ xda-developers",
       "description": "Fix <A13 Play Integrity DEVICE verdict",
       "verified": false,
       "added": 0,
-      "timestamp": 1767920634.0,
-      "size": 283340,
+      "timestamp": 1781984199.0,
+      "size": 285020,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -374,7 +374,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 4209,
+      "stars": 4210,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -390,6 +390,14 @@
           "zipUrl": "https://rooting.unatried.com/modules/PlayIntegrityFork/v16_164000.zip",
           "changelog": "https://rooting.unatried.com/modules/PlayIntegrityFork/v16_164000.md",
           "size": 283340
+        },
+        {
+          "timestamp": 1781984199.0,
+          "version": "v17",
+          "versionCode": 170000,
+          "zipUrl": "https://rooting.unatried.com/modules/PlayIntegrityFork/v17_170000.zip",
+          "changelog": "https://rooting.unatried.com/modules/PlayIntegrityFork/v17_170000.md",
+          "size": 285020
         }
       ]
     },
@@ -654,7 +662,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6061,
+      "stars": 6063,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -696,7 +704,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9752,
+      "stars": 9756,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -755,7 +763,7 @@
         "webroot": true,
         "boot_completed": true
       },
-      "stars": 1311,
+      "stars": 1310,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1095,7 +1103,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2394,
+      "stars": 2393,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,

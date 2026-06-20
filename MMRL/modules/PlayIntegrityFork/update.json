@@ -9,6 +9,14 @@
       "zipUrl": "https://rooting.unatried.com/modules/PlayIntegrityFork/v16_164000.zip",
       "changelog": "https://rooting.unatried.com/modules/PlayIntegrityFork/v16_164000.md",
       "size": 283340
+    },
+    {
+      "timestamp": 1781984199.0,
+      "version": "v17",
+      "versionCode": 170000,
+      "zipUrl": "https://rooting.unatried.com/modules/PlayIntegrityFork/v17_170000.zip",
+      "changelog": "https://rooting.unatried.com/modules/PlayIntegrityFork/v17_170000.md",
+      "size": 285020
     }
   ]
 }

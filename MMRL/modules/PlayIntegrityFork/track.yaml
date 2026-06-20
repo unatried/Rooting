@@ -1,6 +1,6 @@
 enable: true
 id: PlayIntegrityFork
-last_update: 1767920634.0
+last_update: 1781984199.0
 source: https://github.com/osm0sis/PlayIntegrityFork
 update_to: https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/main/update.json
-versions: 1
+versions: 2
