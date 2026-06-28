@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1782589098.437734
+    "timestamp": 1782620795.488715
   },
   "modules": [
     {
@@ -29,7 +29,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 490,
+      "stars": 491,
       "track": {
         "type": "GIT",
         "added": null,
@@ -213,7 +213,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 11589,
+      "stars": 11594,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -285,7 +285,7 @@
         "sepolicy": true,
         "action": true
       },
-      "stars": 2000,
+      "stars": 2001,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -517,6 +517,14 @@
           "zipUrl": "https://rooting.unatried.com/modules/SpeedCool-Magisk-Module/v2.3_14.zip",
           "changelog": "",
           "size": 19857
+        },
+        {
+          "timestamp": 1755812897.0,
+          "version": "v5",
+          "versionCode": 50,
+          "zipUrl": "https://rooting.unatried.com/modules/SpeedCool-Magisk-Module/v5_50.zip",
+          "changelog": "",
+          "size": 19857
         }
       ]
     },
@@ -670,7 +678,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6090,
+      "stars": 6092,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -712,7 +720,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9811,
+      "stars": 9813,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -1168,7 +1176,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1732,
+      "stars": 1733,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,

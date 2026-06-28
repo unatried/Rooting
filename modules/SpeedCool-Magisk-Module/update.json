@@ -9,6 +9,14 @@
       "zipUrl": "https://rooting.unatried.com/modules/SpeedCool-Magisk-Module/v2.3_14.zip",
       "changelog": "",
       "size": 19857
+    },
+    {
+      "timestamp": 1755812897.0,
+      "version": "v5",
+      "versionCode": 50,
+      "zipUrl": "https://rooting.unatried.com/modules/SpeedCool-Magisk-Module/v5_50.zip",
+      "changelog": "",
+      "size": 19857
     }
   ]
 }
