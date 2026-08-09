@@ -1,6 +1,6 @@
 enable: true
 id: NeoZygisk
-last_update: 1771031332.0
+last_update: 1786215826.0
 source: https://github.com/JingMatrix/NeoZygisk
 update_to: https://raw.githubusercontent.com/JingMatrix/NeoZygisk/master/module/zygisk.json
-versions: 2
+versions: 3
