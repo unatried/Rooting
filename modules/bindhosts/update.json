@@ -3,14 +3,6 @@
   "timestamp": 1769529253.0,
   "versions": [
     {
-      "timestamp": 1775012009.0,
-      "version": "v2.1.2",
-      "versionCode": 212,
-      "zipUrl": "https://rooting.unatried.com/modules/bindhosts/v2.1.2_212.zip",
-      "changelog": "https://rooting.unatried.com/modules/bindhosts/v2.1.2_212.md",
-      "size": 165660
-    },
-    {
       "timestamp": 1777875953.0,
       "version": "v2.1.3",
       "versionCode": 213,
@@ -25,6 +17,14 @@
       "zipUrl": "https://rooting.unatried.com/modules/bindhosts/v2.1.4_214.zip",
       "changelog": "https://rooting.unatried.com/modules/bindhosts/v2.1.4_214.md",
       "size": 169325
+    },
+    {
+      "timestamp": 1787535827.0,
+      "version": "v2.1.5",
+      "versionCode": 215,
+      "zipUrl": "https://rooting.unatried.com/modules/bindhosts/v2.1.5_215.zip",
+      "changelog": "https://rooting.unatried.com/modules/bindhosts/v2.1.5_215.md",
+      "size": 258454
     }
   ]
 }
