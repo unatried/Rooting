@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1788021331.625727
+    "timestamp": 1788036502.71506
   },
   "modules": [
     {
@@ -213,7 +213,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 12261,
+      "stars": 12262,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -285,7 +285,7 @@
         "sepolicy": true,
         "action": true
       },
-      "stars": 2233,
+      "stars": 2231,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -363,14 +363,14 @@
     {
       "id": "PlayIntegrityFork",
       "name": "Play Integrity Fork",
-      "version": "v17",
-      "versionCode": 170000,
+      "version": "v18",
+      "versionCode": 180000,
       "author": "osm0sis & chiteroman @ xda-developers",
-      "description": "Fix <A13 Play Integrity DEVICE verdict",
+      "description": "Fix Play Integrity <A13 verdicts and Google Wallet/RCS on Android 7+",
       "verified": false,
       "added": 0,
-      "timestamp": 1781984199.0,
-      "size": 285020,
+      "timestamp": 1788024801.0,
+      "size": 227895,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -382,7 +382,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 4436,
+      "stars": 4435,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -406,6 +406,14 @@
           "zipUrl": "https://rooting.unatried.com/modules/PlayIntegrityFork/v17_170000.zip",
           "changelog": "https://rooting.unatried.com/modules/PlayIntegrityFork/v17_170000.md",
           "size": 285020
+        },
+        {
+          "timestamp": 1788024801.0,
+          "version": "v18",
+          "versionCode": 180000,
+          "zipUrl": "https://rooting.unatried.com/modules/PlayIntegrityFork/v18_180000.zip",
+          "changelog": "https://rooting.unatried.com/modules/PlayIntegrityFork/v18_180000.md",
+          "size": 227895
         }
       ]
     },
@@ -420,7 +428,7 @@
       "added": 0,
       "timestamp": 1761236892.0,
       "size": 1819369,
-      "stars": 105,
+      "stars": 104,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -635,7 +643,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3410,
+      "stars": 3412,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -685,7 +693,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6318,
+      "stars": 6317,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -727,7 +735,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 10474,
+      "stars": 10475,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -786,7 +794,7 @@
         "webroot": true,
         "boot_completed": true
       },
-      "stars": 1393,
+      "stars": 1394,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -879,7 +887,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 508,
+      "stars": 507,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -941,20 +949,22 @@
     {
       "id": "meta-hybrid_mount",
       "name": "Hybrid Mount",
-      "version": "6.0.1",
-      "versionCode": 600001,
+      "version": "6.1.2",
+      "versionCode": 601002,
       "author": "Hybrid Mount Developers",
       "description": "Hybrid Mount: mixed OverlayFS and Magic Mount for KernelSU and APatch",
       "metamodule": "1",
       "verified": false,
       "added": 0,
-      "timestamp": 1787747452.0,
-      "size": 2803762,
+      "timestamp": 1788026305.0,
+      "size": 3422318,
       "permissions": [
-        "kernelsu.permission.WEBUI"
+        "kernelsu.permission.WEBUI",
+        "kernelsu.permission.BOOT_COMPLETED"
       ],
       "features": {
-        "webroot": true
+        "webroot": true,
+        "boot_completed": true
       },
       "track": {
         "type": "ONLINE_JSON",
@@ -964,14 +974,6 @@
         "build_metadata": "https://rooting.unatried.com/modules/meta-hybrid_mount/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1782579916.0,
-          "version": "4.2.0-1815",
-          "versionCode": 402000,
-          "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/4.2.0-1815_402000.zip",
-          "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/4.2.0-1815_402000.md",
-          "size": 2161504
-        },
         {
           "timestamp": 1787738731.0,
           "version": "6.0.0",
@@ -987,6 +989,14 @@
           "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.0.1_600001.zip",
           "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.0.1_600001.md",
           "size": 2803762
+        },
+        {
+          "timestamp": 1788026305.0,
+          "version": "6.1.2",
+          "versionCode": 601002,
+          "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.1.2_601002.zip",
+          "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.1.2_601002.md",
+          "size": 3422318
         }
       ]
     },
@@ -1009,7 +1019,7 @@
         "service": true,
         "webroot": true
       },
-      "stars": 771,
+      "stars": 770,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1179,7 +1189,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1870,
+      "stars": 1872,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
