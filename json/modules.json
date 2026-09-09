@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1788927489.202495
+    "timestamp": 1788952018.834272
   },
   "modules": [
     {
@@ -213,7 +213,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 12356,
+      "stars": 12360,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -285,7 +285,7 @@
         "sepolicy": true,
         "action": true
       },
-      "stars": 2261,
+      "stars": 2263,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -546,25 +546,28 @@
     },
     {
       "id": "SuperMario-Tweaker",
-      "name": "SuperMario Tweaker - Snapdradon",
-      "version": "v3.0.1",
-      "versionCode": 301,
+      "name": "SuperMario Tweaker",
+      "version": "v5.1.0",
+      "versionCode": 510,
       "author": "MRX7014",
       "description": "A tweaker module that can improve any device performance and stability (Gaming, Daily Useage, etc...)",
       "verified": false,
       "added": 0,
-      "timestamp": 1750455154.0,
-      "size": 3283646,
+      "timestamp": 1787917241.0,
+      "size": 422958,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.RESETPROP",
-        "magisk.permission.ACTION"
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI"
       ],
       "features": {
         "service": true,
         "resetprop": true,
-        "action": true
+        "action": true,
+        "webroot": true
       },
+      "stars": 3,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -580,6 +583,14 @@
           "zipUrl": "https://rooting.unatried.com/modules/SuperMario-Tweaker/v3.0.1_301.zip",
           "changelog": "https://rooting.unatried.com/modules/SuperMario-Tweaker/v3.0.1_301.md",
           "size": 3283646
+        },
+        {
+          "timestamp": 1787917241.0,
+          "version": "v5.1.0",
+          "versionCode": 510,
+          "zipUrl": "https://rooting.unatried.com/modules/SuperMario-Tweaker/v5.1.0_510.zip",
+          "changelog": "https://rooting.unatried.com/modules/SuperMario-Tweaker/v5.1.0_510.md",
+          "size": 422958
         }
       ]
     },
@@ -643,7 +654,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3429,
+      "stars": 3431,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -693,7 +704,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6337,
+      "stars": 6336,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -735,7 +746,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 10574,
+      "stars": 10577,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -1132,7 +1143,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2560,
+      "stars": 2561,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
