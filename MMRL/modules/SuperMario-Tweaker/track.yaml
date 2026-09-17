@@ -1,6 +1,6 @@
 enable: true
 id: SuperMario-Tweaker
-last_update: 1787917241.0
+last_update: 1789650791.0
 source: https://github.com/mrx7014/SuperMario-Tweaker
 update_to: https://raw.githubusercontent.com/mrx7014/SuperMario-Tweaker/master/update.json
-versions: 2
+versions: 3
