@@ -17,6 +17,14 @@
       "zipUrl": "https://rooting.unatried.com/modules/SuperMario-Tweaker/v5.1.0_510.zip",
       "changelog": "https://rooting.unatried.com/modules/SuperMario-Tweaker/v5.1.0_510.md",
       "size": 422958
+    },
+    {
+      "timestamp": 1789650791.0,
+      "version": "v5.1.1",
+      "versionCode": 511,
+      "zipUrl": "https://rooting.unatried.com/modules/SuperMario-Tweaker/v5.1.1_511.zip",
+      "changelog": "https://rooting.unatried.com/modules/SuperMario-Tweaker/v5.1.1_511.md",
+      "size": 288089
     }
   ]
 }

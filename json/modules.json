@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1789644360.139435
+    "timestamp": 1789663491.127565
   },
   "modules": [
     {
@@ -213,7 +213,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 12436,
+      "stars": 12439,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -285,7 +285,7 @@
         "sepolicy": true,
         "action": true
       },
-      "stars": 2301,
+      "stars": 2304,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -547,22 +547,24 @@
     {
       "id": "SuperMario-Tweaker",
       "name": "SuperMario Tweaker",
-      "version": "v5.1.0",
-      "versionCode": 510,
+      "version": "v5.1.1",
+      "versionCode": 511,
       "author": "MRX7014",
       "description": "A tweaker module that can improve any device performance and stability (Gaming, Daily Useage, etc...)",
       "verified": false,
       "added": 0,
-      "timestamp": 1787917241.0,
-      "size": 422958,
+      "timestamp": 1789650791.0,
+      "size": 288089,
       "permissions": [
         "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
         "magisk.permission.RESETPROP",
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI"
       ],
       "features": {
         "service": true,
+        "post_fs_data": true,
         "resetprop": true,
         "action": true,
         "webroot": true
@@ -591,6 +593,14 @@
           "zipUrl": "https://rooting.unatried.com/modules/SuperMario-Tweaker/v5.1.0_510.zip",
           "changelog": "https://rooting.unatried.com/modules/SuperMario-Tweaker/v5.1.0_510.md",
           "size": 422958
+        },
+        {
+          "timestamp": 1789650791.0,
+          "version": "v5.1.1",
+          "versionCode": 511,
+          "zipUrl": "https://rooting.unatried.com/modules/SuperMario-Tweaker/v5.1.1_511.zip",
+          "changelog": "https://rooting.unatried.com/modules/SuperMario-Tweaker/v5.1.1_511.md",
+          "size": 288089
         }
       ]
     },
@@ -1142,7 +1152,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2574,
+      "stars": 2576,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
