@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1789791254.715609
+    "timestamp": 1789814597.034894
   },
   "modules": [
     {
@@ -213,7 +213,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 12449,
+      "stars": 12451,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -285,7 +285,7 @@
         "sepolicy": true,
         "action": true
       },
-      "stars": 2311,
+      "stars": 2314,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -428,7 +428,7 @@
       "added": 0,
       "timestamp": 1761236892.0,
       "size": 1819369,
-      "stars": 116,
+      "stars": 117,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -907,7 +907,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 509,
+      "stars": 508,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -969,15 +969,15 @@
     {
       "id": "meta-hybrid_mount",
       "name": "Hybrid Mount",
-      "version": "6.1.4",
-      "versionCode": 601004,
+      "version": "6.2.0",
+      "versionCode": 602000,
       "author": "Hybrid Mount Developers",
       "description": "Hybrid Mount: mixed OverlayFS and Magic Mount for KernelSU and APatch",
       "metamodule": "1",
       "verified": false,
       "added": 0,
-      "timestamp": 1788493762.0,
-      "size": 3419817,
+      "timestamp": 1789208446.0,
+      "size": 3433818,
       "permissions": [
         "kernelsu.permission.WEBUI",
         "kernelsu.permission.BOOT_COMPLETED"
@@ -995,14 +995,6 @@
       },
       "versions": [
         {
-          "timestamp": 1788026305.0,
-          "version": "6.1.2",
-          "versionCode": 601002,
-          "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.1.2_601002.zip",
-          "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.1.2_601002.md",
-          "size": 3422318
-        },
-        {
           "timestamp": 1788086437.0,
           "version": "6.1.3",
           "versionCode": 601003,
@@ -1017,6 +1009,14 @@
           "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.1.4_601004.zip",
           "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.1.4_601004.md",
           "size": 3419817
+        },
+        {
+          "timestamp": 1789208446.0,
+          "version": "6.2.0",
+          "versionCode": 602000,
+          "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.2.0_602000.zip",
+          "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.2.0_602000.md",
+          "size": 3433818
         }
       ]
     },
@@ -1087,7 +1087,7 @@
         "post_fs_data": true,
         "sepolicy": true
       },
-      "stars": 405,
+      "stars": 404,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1209,7 +1209,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1900,
+      "stars": 1901,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
