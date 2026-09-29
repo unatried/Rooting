@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1790685281.818026
+    "timestamp": 1790719644.132171
   },
   "modules": [
     {
@@ -213,7 +213,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 12565,
+      "stars": 12570,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -285,7 +285,7 @@
         "sepolicy": true,
         "action": true
       },
-      "stars": 2365,
+      "stars": 2369,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -382,7 +382,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 4535,
+      "stars": 4538,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -664,7 +664,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3469,
+      "stars": 3468,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -814,7 +814,7 @@
         "webroot": true,
         "boot_completed": true
       },
-      "stars": 1450,
+      "stars": 1448,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -907,7 +907,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 513,
+      "stars": 512,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -969,15 +969,15 @@
     {
       "id": "meta-hybrid_mount",
       "name": "Hybrid Mount",
-      "version": "6.2.1-rc.3",
-      "versionCode": 602001303,
+      "version": "6.2.2",
+      "versionCode": 602002999,
       "author": "Hybrid Mount Developers",
       "description": "Hybrid Mount: mixed OverlayFS, Magic Mount, and VFS for KernelSU and APatch",
       "metamodule": "1",
       "verified": false,
       "added": 0,
-      "timestamp": 1789967209.0,
-      "size": 4826117,
+      "timestamp": 1790697697.0,
+      "size": 6713210,
       "permissions": [
         "kernelsu.permission.WEBUI",
         "kernelsu.permission.BOOT_COMPLETED"
@@ -995,14 +995,6 @@
       },
       "versions": [
         {
-          "timestamp": 1788493762.0,
-          "version": "6.1.4",
-          "versionCode": 601004,
-          "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.1.4_601004.zip",
-          "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.1.4_601004.md",
-          "size": 3419817
-        },
-        {
           "timestamp": 1789208446.0,
           "version": "6.2.0",
           "versionCode": 602000,
@@ -1017,6 +1009,14 @@
           "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.2.1-rc.3_602001303.zip",
           "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.2.1-rc.3_602001303.md",
           "size": 4826117
+        },
+        {
+          "timestamp": 1790697697.0,
+          "version": "6.2.2",
+          "versionCode": 602002999,
+          "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.2.2_602002999.zip",
+          "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.2.2_602002999.md",
+          "size": 6713210
         }
       ]
     },
@@ -1152,7 +1152,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2599,
+      "stars": 2600,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1209,7 +1209,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1906,
+      "stars": 1907,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
