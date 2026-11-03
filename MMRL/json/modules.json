@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1793666990.319557
+    "timestamp": 1793714272.220834
   },
   "modules": [
     {
@@ -213,7 +213,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 13014,
+      "stars": 13019,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -285,7 +285,7 @@
         "sepolicy": true,
         "action": true
       },
-      "stars": 2535,
+      "stars": 2536,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -363,14 +363,14 @@
     {
       "id": "PlayIntegrityFork",
       "name": "Play Integrity Fork",
-      "version": "v18",
-      "versionCode": 180000,
+      "version": "v19",
+      "versionCode": 190000,
       "author": "osm0sis & chiteroman @ xda-developers",
       "description": "Fix Play Integrity <A13 verdicts and Google Wallet/RCS on Android 7+",
       "verified": false,
       "added": 0,
-      "timestamp": 1788024801.0,
-      "size": 227895,
+      "timestamp": 1793670968.0,
+      "size": 341951,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -382,7 +382,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 4638,
+      "stars": 4642,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -391,14 +391,6 @@
         "build_metadata": "https://rooting.unatried.com/modules/PlayIntegrityFork/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1767920634.0,
-          "version": "v16",
-          "versionCode": 164000,
-          "zipUrl": "https://rooting.unatried.com/modules/PlayIntegrityFork/v16_164000.zip",
-          "changelog": "https://rooting.unatried.com/modules/PlayIntegrityFork/v16_164000.md",
-          "size": 283340
-        },
         {
           "timestamp": 1781984199.0,
           "version": "v17",
@@ -414,6 +406,14 @@
           "zipUrl": "https://rooting.unatried.com/modules/PlayIntegrityFork/v18_180000.zip",
           "changelog": "https://rooting.unatried.com/modules/PlayIntegrityFork/v18_180000.md",
           "size": 227895
+        },
+        {
+          "timestamp": 1793670968.0,
+          "version": "v19",
+          "versionCode": 190000,
+          "zipUrl": "https://rooting.unatried.com/modules/PlayIntegrityFork/v19_190000.zip",
+          "changelog": "https://rooting.unatried.com/modules/PlayIntegrityFork/v19_190000.md",
+          "size": 341951
         }
       ]
     },
@@ -428,7 +428,7 @@
       "added": 0,
       "timestamp": 1761236892.0,
       "size": 1819369,
-      "stars": 168,
+      "stars": 169,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -714,7 +714,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6445,
+      "stars": 6446,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -756,7 +756,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 10787,
+      "stars": 10798,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -815,7 +815,7 @@
         "webroot": true,
         "boot_completed": true
       },
-      "stars": 1516,
+      "stars": 1517,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -867,7 +867,7 @@
       "features": {
         "webroot": true
       },
-      "stars": 287,
+      "stars": 286,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -908,7 +908,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 520,
+      "stars": 519,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
