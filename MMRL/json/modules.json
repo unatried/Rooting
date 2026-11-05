@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1793859141.697057
+    "timestamp": 1793908049.870932
   },
   "modules": [
     {
@@ -168,7 +168,7 @@
         "service": true,
         "post_fs_data": true
       },
-      "stars": 91,
+      "stars": 90,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -213,7 +213,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 13037,
+      "stars": 13042,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -285,7 +285,7 @@
         "sepolicy": true,
         "action": true
       },
-      "stars": 2545,
+      "stars": 2544,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -382,7 +382,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 4651,
+      "stars": 4652,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -428,7 +428,7 @@
       "added": 0,
       "timestamp": 1761236892.0,
       "size": 1819369,
-      "stars": 169,
+      "stars": 171,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -756,7 +756,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 10818,
+      "stars": 10816,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -815,7 +815,7 @@
         "webroot": true,
         "boot_completed": true
       },
-      "stars": 1526,
+      "stars": 1532,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -908,7 +908,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 519,
+      "stars": 520,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -970,21 +970,23 @@
     {
       "id": "meta-hybrid_mount",
       "name": "Hybrid Mount",
-      "version": "6.2.3",
-      "versionCode": 602003999,
+      "version": "6.2.6-rc.1",
+      "versionCode": 602006301,
       "author": "Hybrid Mount Developers",
       "description": "Hybrid Mount: mixed OverlayFS, Magic Mount, and VFS for KernelSU and APatch",
       "metamodule": "1",
       "verified": false,
       "added": 0,
-      "timestamp": 1791694186.0,
-      "size": 4923231,
+      "timestamp": 1793866553.0,
+      "size": 5032123,
       "permissions": [
         "kernelsu.permission.WEBUI",
+        "kernelsu.permission.POST_MOUNT",
         "kernelsu.permission.BOOT_COMPLETED"
       ],
       "features": {
         "webroot": true,
+        "post_mount": true,
         "boot_completed": true
       },
       "track": {
@@ -995,14 +997,6 @@
         "build_metadata": "https://rooting.unatried.com/modules/meta-hybrid_mount/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1790773921.0,
-          "version": "6.2.3-rc.2",
-          "versionCode": 602003302,
-          "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.2.3-rc.2_602003302.zip",
-          "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.2.3-rc.2_602003302.md",
-          "size": 4874366
-        },
         {
           "timestamp": 1790988338.0,
           "version": "6.2.3-rc.3",
@@ -1018,6 +1012,14 @@
           "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.2.3_602003999.zip",
           "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.2.3_602003999.md",
           "size": 4923231
+        },
+        {
+          "timestamp": 1793866553.0,
+          "version": "6.2.6-rc.1",
+          "versionCode": 602006301,
+          "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.2.6-rc.1_602006301.zip",
+          "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.2.6-rc.1_602006301.md",
+          "size": 5032123
         }
       ]
     },
@@ -1153,7 +1155,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2717,
+      "stars": 2721,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1210,7 +1212,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1953,
+      "stars": 1952,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
