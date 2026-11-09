@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1794203347.271154
+    "timestamp": 1794239559.939832
   },
   "modules": [
     {
@@ -29,7 +29,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 591,
+      "stars": 592,
       "track": {
         "type": "GIT",
         "added": null,
@@ -213,7 +213,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 13090,
+      "stars": 13093,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -382,7 +382,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 4659,
+      "stars": 4661,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -428,7 +428,7 @@
       "added": 0,
       "timestamp": 1761236892.0,
       "size": 1819369,
-      "stars": 175,
+      "stars": 177,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -714,7 +714,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6460,
+      "stars": 6462,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -756,7 +756,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 10889,
+      "stars": 10902,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -815,7 +815,7 @@
         "webroot": true,
         "boot_completed": true
       },
-      "stars": 1537,
+      "stars": 1535,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -867,7 +867,7 @@
       "features": {
         "webroot": true
       },
-      "stars": 286,
+      "stars": 285,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -908,7 +908,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 521,
+      "stars": 523,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -970,15 +970,15 @@
     {
       "id": "meta-hybrid_mount",
       "name": "Hybrid Mount",
-      "version": "6.2.6-rc.1",
-      "versionCode": 602006301,
+      "version": "6.2.6-rc.2",
+      "versionCode": 602006302,
       "author": "Hybrid Mount Developers",
       "description": "Hybrid Mount: mixed OverlayFS, Magic Mount, and VFS for KernelSU and APatch",
       "metamodule": "1",
       "verified": false,
       "added": 0,
-      "timestamp": 1793866553.0,
-      "size": 5032123,
+      "timestamp": 1793957639.0,
+      "size": 5430516,
       "permissions": [
         "kernelsu.permission.WEBUI",
         "kernelsu.permission.POST_MOUNT",
@@ -998,14 +998,6 @@
       },
       "versions": [
         {
-          "timestamp": 1790988338.0,
-          "version": "6.2.3-rc.3",
-          "versionCode": 602003303,
-          "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.2.3-rc.3_602003303.zip",
-          "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.2.3-rc.3_602003303.md",
-          "size": 4937628
-        },
-        {
           "timestamp": 1791694186.0,
           "version": "6.2.3",
           "versionCode": 602003999,
@@ -1020,6 +1012,14 @@
           "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.2.6-rc.1_602006301.zip",
           "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.2.6-rc.1_602006301.md",
           "size": 5032123
+        },
+        {
+          "timestamp": 1793957639.0,
+          "version": "6.2.6-rc.2",
+          "versionCode": 602006302,
+          "zipUrl": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.2.6-rc.2_602006302.zip",
+          "changelog": "https://rooting.unatried.com/modules/meta-hybrid_mount/6.2.6-rc.2_602006302.md",
+          "size": 5430516
         }
       ]
     },
@@ -1155,7 +1155,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2735,
+      "stars": 2737,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1212,7 +1212,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1949,
+      "stars": 1950,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
