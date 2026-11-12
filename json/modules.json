@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1794443085.65514
+    "timestamp": 1794495481.356413
   },
   "modules": [
     {
@@ -213,7 +213,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 13124,
+      "stars": 13140,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -428,7 +428,6 @@
       "added": 0,
       "timestamp": 1761236892.0,
       "size": 1819369,
-      "stars": 179,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -569,6 +568,7 @@
         "action": true,
         "webroot": true
       },
+      "stars": 2,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -663,7 +663,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3520,
+      "stars": 3523,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -713,7 +713,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6463,
+      "stars": 6468,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -755,7 +755,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 10952,
+      "stars": 10965,
       "track": {
         "type": "ONLINE_ZIP",
         "added": null,
@@ -814,7 +814,7 @@
         "webroot": true,
         "boot_completed": true
       },
-      "stars": 1538,
+      "stars": 1543,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1041,7 +1041,7 @@
         "service": true,
         "webroot": true
       },
-      "stars": 771,
+      "stars": 772,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1154,7 +1154,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2749,
+      "stars": 2750,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1211,7 +1211,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1950,
+      "stars": 1953,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
